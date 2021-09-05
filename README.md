@@ -7,7 +7,7 @@
 
 - 👨🏼‍🎓 Técnico em TI, Bacharel em Sistemas de Informação e Especialista em Seg. da Informação
 - 🛠️ Trabalho atualmente com tecnologias em sistemas de TV aberta em uma grande emissora
-- 🧑🏻‍🎓 Estudando Python e Banco de Dados MySql 
+- 🧑🏻‍🎓 Aprendendo Python e aprimorando os conhecimentos em C#.
 - 😃 Fascinado por tecnologia, games e esportes!
 
 "Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar a onde a maioria não chega, faça o que a maioria não faz." 
